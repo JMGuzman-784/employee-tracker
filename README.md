@@ -10,7 +10,10 @@ This repo/code gives a user the ability to View, Add, Update, and Remove an empl
 [Employee System Tracker](https://youtu.be/GKx_pR-pnwY)
 
 * Below is an image preview 
+
+
 ![Employee Tracker](./images/EmpTrack.png)
+
 
 ## Links 🖊️
 
